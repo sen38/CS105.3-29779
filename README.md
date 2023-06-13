@@ -1,2 +1,2 @@
-# dbms
+# lab sessions
 practical questions
