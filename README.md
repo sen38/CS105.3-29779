@@ -1,2 +1,2 @@
-# lab sessions
-practical questions
+
+DBMS lab practicals
